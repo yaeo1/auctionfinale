@@ -1,0 +1,224 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "login": "admin",
+            "password": "admin",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "login": "ivan1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 3,
+            "login": "andrey1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 4,
+            "login": "sergay1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 5,
+            "login": "akakiy1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 6,
+            "login": "stepa1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 7,
+            "login": "dosiaxgod1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 8,
+            "login": "viktordudko1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 9,
+            "login": "ivanzolo1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 10,
+            "login": "pashok1",
+            "password": "password",
+            "role": "seller"
+        },
+        {
+            "id": 11,
+            "login": "tugoserya1",
+            "password": "password",
+            "role": "seller"
+        }
+    ],
+    "sellers": [
+        {
+            "id": 1,
+            "first_name": "Иван",
+            "last_name": "Иванов",
+            "phone": "+1234567890",
+            "user_id": 2
+        },
+        {
+            "id": 2,
+            "first_name": "Андрей",
+            "last_name": "Иванов",
+            "phone": "+2134567890",
+            "user_id": 3
+        },
+        {
+            "id": 3,
+            "first_name": "Сэргей",
+            "last_name": "Иванов",
+            "phone": "+2314567890",
+            "user_id": 4
+        },
+        {
+            "id": 4,
+            "first_name": "Акакий",
+            "last_name": "Иванов",
+            "phone": "+2341567890",
+            "user_id": 5
+        },
+        {
+            "id": 5,
+            "first_name": "Степан",
+            "last_name": "CUPSIZE",
+            "phone": "размер твоего лифчика",
+            "user_id": 6
+        },
+        {
+            "id": 6,
+            "first_name": "Дуся",
+            "last_name": "Дудосович",
+            "phone": "+2345167890",
+            "user_id": 7
+        },
+        {
+            "id": 7,
+            "first_name": "Виктор",
+            "last_name": "Джокiр",
+            "phone": "+2345617890",
+            "user_id": 8
+        },
+        {
+            "id": 8,
+            "first_name": "Иван",
+            "last_name": "Зола",
+            "phone": "Мезулена",
+            "user_id": 9
+        },
+        {
+            "id": 9,
+            "first_name": "Пашок",
+            "last_name": "Беткокинг",
+            "phone": "+2345671890",
+            "user_id": 10
+        },
+        {
+            "id": 10,
+            "first_name": "Иван",
+            "last_name": "Тугосеря",
+            "phone": "+3124567890",
+            "user_id": 11
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "name": "Божи карофка",
+            "description": "Крутой рисунок",
+            "starting_price": 10000000000000.0,
+            "photo": "./img\\bzbzbz.jpg",
+            "seller_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Купюрка",
+            "description": "А чо так дорого",
+            "starting_price": 1000000.0,
+            "photo": "./img\\dorogo.jpg",
+            "seller_id": 2
+        },
+        {
+            "id": 3,
+            "name": "Крутой ластик Гатс",
+            "description": "Я легенда",
+            "starting_price": 2000002000002.0,
+            "photo": "./img\\gatsdudko.jpg",
+            "seller_id": 3
+        },
+        {
+            "id": 4,
+            "name": "Я не помню, что тут",
+            "description": "Нашел дома",
+            "starting_price": 5.0,
+            "photo": "./img\\hzchota.jpg",
+            "seller_id": 4
+        },
+        {
+            "id": 5,
+            "name": "ТоварищЪ",
+            "description": "Крутой Ленин Гном",
+            "starting_price": 99999999999999.0,
+            "photo": "./img\\lenindudko.jpg",
+            "seller_id": 5
+        },
+        {
+            "id": 6,
+            "name": "Масло",
+            "description": "Крутой рисунак",
+            "starting_price": 8792138482.0,
+            "photo": "./img\\maslo.jpg",
+            "seller_id": 6
+        },
+        {
+            "id": 7,
+            "name": "Нефертити",
+            "description": "ха-ха тити, нефар",
+            "starting_price": 993.0,
+            "photo": "./img\\nefor.jpg",
+            "seller_id": 7
+        },
+        {
+            "id": 8,
+            "name": "Экзотика",
+            "description": "==Пошло_поехало==",
+            "starting_price": 1000000.0,
+            "photo": "./img\\poshlopoehalo.jpg",
+            "seller_id": 8
+        },
+        {
+            "id": 9,
+            "name": "Часы Z",
+            "description": "Нашинские часы",
+            "starting_price": 8000000.0,
+            "photo": "./img\\slon.jpg",
+            "seller_id": 9
+        },
+        {
+            "id": 10,
+            "name": "крутая сумочка",
+            "description": "Бездонная",
+            "starting_price": 10000000000000.0,
+            "photo": "./img\\summo4ka.jpg",
+            "seller_id": 10
+        }
+    ]
+}
